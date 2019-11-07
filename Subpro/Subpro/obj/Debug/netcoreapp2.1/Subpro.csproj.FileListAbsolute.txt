@@ -1,0 +1,11 @@
+C:\Users\5215438\source\repos\Subpro\Subpro\bin\Debug\netcoreapp2.1\Subpro.deps.json
+C:\Users\5215438\source\repos\Subpro\Subpro\bin\Debug\netcoreapp2.1\Subpro.runtimeconfig.json
+C:\Users\5215438\source\repos\Subpro\Subpro\bin\Debug\netcoreapp2.1\Subpro.runtimeconfig.dev.json
+C:\Users\5215438\source\repos\Subpro\Subpro\bin\Debug\netcoreapp2.1\Subpro.dll
+C:\Users\5215438\source\repos\Subpro\Subpro\bin\Debug\netcoreapp2.1\Subpro.pdb
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.csprojAssemblyReference.cache
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.csproj.CoreCompileInputs.cache
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.AssemblyInfoInputs.cache
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.AssemblyInfo.cs
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.dll
+C:\Users\5215438\source\repos\Subpro\Subpro\obj\Debug\netcoreapp2.1\Subpro.pdb
